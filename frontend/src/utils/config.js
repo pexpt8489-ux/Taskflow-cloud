@@ -1,1 +1,1 @@
-export const BACKEND_URL="https://taskflow-cloud-production.up.railway.app""
+export const BACKEND_URL="https://taskflow-cloud-production.up.railway.app"
